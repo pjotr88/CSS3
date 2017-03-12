@@ -17,3 +17,6 @@ p#pierwszy, a{
 div#elementy-potomne p {
     background-color: aqua;
 }
+p#pierwszy + a {
+    color: lime;
+}
