@@ -14,3 +14,6 @@ p {
 p#pierwszy, a{
     font-weight: bold;
 }
+div#elementy-potomne p {
+    background-color: aqua;
+}
